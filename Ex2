@@ -1,0 +1,4 @@
+import sys
+print('Hi,' + sys.argv[1] + '.')
+print('How are you?')
+
